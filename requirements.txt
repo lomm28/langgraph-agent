@@ -1,0 +1,6 @@
+click
+python-dotenv
+langgraph
+langchain_openai
+langchain_core
+prompt_toolkit
